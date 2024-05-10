@@ -1,7 +1,7 @@
 # Snake Game
 
 ## Description
-This is a classic snake game implemented in [programming language]. The objective of the game is to control the snake and eat as much food as possible without colliding with the walls or the snake's own body.
+This is a classic snake game implemented in JavaScript. The objective of the game is to control the snake and eat as much food as possible without colliding with the walls or the snake's own body.
 
 ## Features
 - User-friendly controls
@@ -10,8 +10,8 @@ This is a classic snake game implemented in [programming language]. The objectiv
 - Game over screen with the option to restart
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/snake-game.git`
-2. Navigate to the project directory: `cd snake-game`
+1. Clone the repository: `git clone https://github.com/davemilnercapg/snakegame1.git`
+2. Navigate to the project directory: `cd snakegame1`
 3. Install the dependencies: `npm install` or `pip install -r requirements.txt`
 
 ## Usage
